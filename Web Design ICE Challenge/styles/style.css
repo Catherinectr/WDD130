@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#content {
+   
+text-align: center;
+background-color: aqua;
+}
+    
+
+#list {
+    height: 725px; ;
+}
+#content div img {
+    width: 100%;
+}
+#content div{
+    height: 550px;
+}
+.desk-img {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color:#737373;
+}
+.desk-img div {
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.desk-img img {
+    border-radius: 200px;
+    border: 15px solid black;
+}

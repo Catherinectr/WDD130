@@ -1,0 +1,21 @@
+body {
+    background-color:aquamarine;
+}
+.any {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+  
+}
+#container {
+ 
+   
+    background-color: yellow;
+       display: grid;
+    grid-template-columns: 20% 70% 10%;
+    grid-template-rows: 100px 100px 100px 100px;
+    head:
+}
